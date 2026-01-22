@@ -1,10 +1,8 @@
 python-multipart
-prophet 
+prophet
 pandas
 numpy
 scikit-learn
-sqlalchemy
-bcrypt
 sqlalchemy
 bcrypt
 pymysql
