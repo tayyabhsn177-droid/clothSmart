@@ -90,7 +90,7 @@ def register_business(
     """
     Register a new business (tenant) with owner account
     Includes 7-day free trial
-    🆕 SENDS VERIFICATION EMAIL
+    SENDS VERIFICATION EMAIL
     """
     try:
         # Create tenant and owner user
